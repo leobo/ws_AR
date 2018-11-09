@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/boy2/UCF101/src/resNet-152/temp"
+all_model_checkpoint_paths: "/home/boy2/UCF101/src/resNet-152/temp"

@@ -1,0 +1,6 @@
+*.ckpt
+hmdb51_dataset/
+ucf101_dataset/
+src/models/
+src/weighted_sum/data/
+src/venv/
